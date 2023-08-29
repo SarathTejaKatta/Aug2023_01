@@ -1,1 +1,2 @@
 Creating my second file in my git repository.
+Adding second line
